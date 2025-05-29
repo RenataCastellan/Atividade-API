@@ -1,3 +1,6 @@
+Renata Lima Lopes Castellan
+Emilly Kelly Silva Danciguer
+
 # Atividade-API
 
 # API JWT + Front
@@ -16,3 +19,6 @@
 1. Vá até a pasta `front`
 2. Abra o arquivo `index.html` no navegador
 3. Use o email `user@exemplo.com` e senha `123456` para fazer login
+
+
+
